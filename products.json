@@ -1,131 +1,450 @@
 [
   {
-    "name": "accent chair",
-    "price": 25,
-    "company": "marcos",
-    "rating": 4
-  },
-  {
-    "name": "albany sectional",
-    "price": 109,
-    "company": "liddy",
-    "rating": 5
-  },
-  {
-    "name": "albany table",
-    "price": 309,
-    "company": "liddy",
-    "rating": 4.9
-  },
-  {
-    "name": "armchair",
+    "name": "Jordan 'Why Not?' Zer0.5",
+    "type": "Older Kids' Basketball Shoes",
+    "gender": "men",
     "price": 125,
-    "company": "marcos",
-    "rating": 4.8
+    "size": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "color": [
+      "blue",
+      "orange",
+      "black",
+      "multicolor"
+    ],
+    "brand": "converse"
   },
   {
-    "name": "bar stool",
-    "price": 40,
-    "company": "liddy",
-    "rating": 4.6
+    "name": "Flex Plus",
+    "type": "Younger Kids' Shoe",
+    "gender": "unisex",
+    "price": 65,
+    "size": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "color": [
+      "black",
+      "white"
+    ],
+    "brand": "adidas"
   },
   {
-    "name": "dining table",
-    "price": 42,
-    "company": "ikea",
-    "rating": 4.55
+    "name": "Air Max 90 LTR SE",
+    "type": "Older Kids' Shoes",
+    "gender": "men",
+    "price": 130,
+    "size": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "color": [
+      "black",
+      "white",
+      "green",
+      "multicolor"
+    ],
+    "brand": "nike"
   },
   {
-    "name": "emperor bed",
-    "price": 23,
-    "company": "ikea"
+    "name": "Air Force 1 '07 LV8",
+    "type": "Men's Shoes",
+    "gender": "men",
+    "price": 125,
+    "size": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "color": [
+      "black",
+      "white"
+    ],
+    "brand": "nike"
   },
   {
-    "name": "entertainment center",
-    "price": 59,
-    "featured": true,
-    "company": "caressa"
+    "name": "Air Max 90 SE",
+    "type": "Men's Shoes",
+    "gender": "men",
+    "price": 175,
+    "size": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "color": [
+      "gray",
+      "white",
+      "black"
+    ],
+    "brand": "nike"
   },
   {
-    "name": "high-back bench",
-    "price": 39,
-    "featured": true,
-    "company": "ikea"
-  },
-
-  {
-    "name": "leather sofa",
-    "price": 99,
-    "company": "caressa"
-  },
-  {
-    "name": "modern bookshelf",
-    "price": 31,
-    "featured": true,
-    "company": "caressa"
-  },
-  {
-    "name": "modern poster",
-    "price": 30,
-    "company": "liddy"
+    "name": "Flex Experience Run 11 Next Nature",
+    "type": "Men's Road Running Shoes",
+    "gender": "men",
+    "price": 70,
+    "size": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "color": [
+      "black",
+      "white",
+      "red"
+    ],
+    "brand": "nike"
   },
   {
-    "name": "shelf",
-    "price": 30,
-    "company": "ikea"
+    "name": "Air Zoom SuperRep 3",
+    "type": "Men's HIIT Class Shoes",
+    "gender": "men",
+    "price": 130,
+    "size": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47
+    ],
+    "color": [
+      "black"
+    ],
+    "brand": "nike"
   },
   {
-    "name": "simple chair",
-    "price": 109,
-    "company": "liddy"
+    "name": "Air Presto",
+    "type": "Men's Shoes",
+    "gender": "men",
+    "price": 105,
+    "size": [
+      38,
+      40,
+      41,
+      42,
+      44,
+      45,
+      46,
+      47
+    ],
+    "color": [
+      "white",
+      "gray",
+      "black"
+    ],
+    "brand": "vans"
   },
   {
-    "name": "sofa set",
+    "name": "Air Jordan 1 Elevate Low SE",
+    "type": "Women's Shoe",
+    "gender": "women",
+    "price": 185,
+    "size": [
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "color": [
+      "red",
+      "white",
+      "black"
+    ],
+    "brand": "nike"
+  },
+  {
+    "name": "Wildhorse 7",
+    "type": "Women's Trail Running Shoes",
+    "gender": "women",
+    "price": 115,
+    "size": [
+      37,
+      38,
+      39,
+      40
+    ],
+    "color": [
+      "blue",
+      "pink",
+      "black",
+      "multicolor"
+    ],
+    "brand": "vans"
+  },
+  {
+    "name": "Court Vision Alta",
+    "type": "Women's Shoes",
+    "gender": "women",
+    "price": 65,
+    "size": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "color": [
+      "white"
+    ],
+    "brand": "vans"
+  },
+  {
+    "name": "Air Jordan 1 Mid SE Utility",
+    "type": "Women's Shoes",
+    "gender": "women",
+    "price": 150,
+    "size": [
+      38,
+      39,
+      40,
+      41
+    ],
+    "color": [
+      "black",
+      "white",
+      "red"
+    ],
+    "brand": "adidas"
+  },
+  {
+    "name": "React Infinity Run Flyknit 2",
+    "type": "Women's Road Running Shoes",
+    "gender": "women",
+    "price": 130,
+    "size": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "color": [
+      "black",
+      "pink",
+      "white"
+    ],
+    "brand": "nike"
+  },
+  {
+    "name": "Solarglide 5 Shoes",
+    "type": "Women's Road Running Shoes",
+    "gender": "women",
+    "price": 169,
+    "size": [
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "color": [
+      "white",
+      "black"
+    ],
+    "brand": "adidas"
+  },
+  {
+    "name": "Escape Run Flyknit",
+    "type": "Women's Road Running Shoes",
+    "gender": "women",
     "price": 129,
-    "company": "marcos"
+    "size": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "color": [
+      "black",
+      "white"
+    ],
+    "brand": "converse"
   },
   {
-    "name": "suede armchair",
-    "price": 15,
-    "company": "caressa"
+    "name": "Renew Run 3 Premium",
+    "type": "Women's Road Running Shoes",
+    "gender": "women",
+    "price": 125,
+    "size": [
+      36,
+      37,
+      38,
+      40,
+      41
+    ],
+    "color": [
+      "pink",
+      "white"
+    ],
+    "brand": "vans"
   },
   {
-    "name": "utopia sofa",
-    "price": 79,
-    "featured": true,
-    "company": "liddy"
+    "name": "Juniper Trail",
+    "type": "Women's Trail Running Shoes",
+    "gender": "women",
+    "price": 99,
+    "size": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "color": [
+      "gray",
+      "black",
+      "white"
+    ],
+    "brand": "adidas"
   },
   {
-    "name": "vase table",
-    "price": 120,
-    "featured": true,
-    "company": "marcos"
+    "name": "KD14 EP",
+    "type": "Basketball Shoes",
+    "gender": "unisex",
+    "price": 130,
+    "size": [
+      41,
+      42,
+      43,
+      44
+    ],
+    "color": [
+      "multicolor",
+      "black",
+      "pink",
+      "yellow",
+      "blue"
+    ],
+    "brand": "converse"
   },
   {
-    "name": "wooden bed",
-    "price": 25,
-    "company": "ikea"
+    "name": "SB Zoom Blazer Mid Premium",
+    "type": "Skate Shoe",
+    "gender": "unisex",
+    "price": 125,
+    "size": [
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "color": [
+      "red",
+      "black"
+    ],
+    "brand": "nike"
   },
   {
-    "name": "wooden desk",
-    "price": 15,
-    "company": "ikea"
+    "name": "SB Chron 2 Canvas",
+    "type": "Skate Shoe",
+    "gender": "unisex",
+    "price": 45,
+    "size": [
+      40,
+      41,
+      42,
+      44
+    ],
+    "color": [
+      "gray",
+      "white"
+    ],
+    "brand": "nike"
   },
   {
-    "name": "wooden desk",
-    "price": 40,
-    "company": "ikea"
+    "name": "Air Zoom Pegasus 38 A.I.R.Nathan Bell",
+    "type": "Road Running Shoes",
+    "gender": "unisex",
+    "price": 140,
+    "size": [
+      41,
+      42,
+      43,
+      44
+    ],
+    "color": [
+      "blue",
+      "white"
+    ],
+    "brand": "nike"
   },
   {
-    "name": "wooden table",
+    "name": "Savaleos",
+    "type": "Weightlifting Shoe",
+    "gender": "unisex",
+    "price": 123,
+    "size": [
+      42,
+      43,
+      44
+    ],
+    "color": [
+      "black",
+      "gray"
+    ],
+    "brand": "vans"
+  },
+  {
+    "name": "Blazer Low ’77 Vintage By You",
+    "type": "Custom Shoe",
+    "gender": "unisex",
     "price": 23,
-    "featured": true,
-    "company": "caressa"
-  },
-  {
-    "name": "a first wooden table",
-    "price": 23,
-    "featured": true,
-    "company": "caressa"
+    "size": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "color": [
+      "gray",
+      "black"
+    ],
+    "brand": "vans"
   }
 ]

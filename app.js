@@ -17,9 +17,10 @@ app.use(cors());
 // Routes
 app.get("/", (req, res) => {
    res.send(
-      '<h1>Welcome to Store API</h1><a href="/api/v1/products">go to products</a>'
+      '<h1>Store API</h1><a href="/api/v1/products">go to products</a><br><h3>Learn to filtering data using query parameters</h3>'
    );
 });
+
 
 // Route Middleware
 app.use("/api/v1/products", products);

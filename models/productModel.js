@@ -24,10 +24,14 @@ const productSchema = new mongoose.Schema({
          message: '{VALUE} is not gender'
       },
    },
+   color: {
+      type: [String],
+      required: [true, 'product color must be provided']
+   },
    brand: {
       type: String,
       enum: {
-         values: ["adidas", "nike", "vans"],
+         values: ["adidas", "nike", "vans", "converse"],
          message: '{VALUE} is not supported'
       },
    },
